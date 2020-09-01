@@ -1,0 +1,7 @@
+# Export all names
+exportPattern(".")
+
+S3method(print, crblocks_output)
+
+importFrom("stats", "pchisq", "rmultinom", "var")
+importFrom("utils", "read.table", "stack")

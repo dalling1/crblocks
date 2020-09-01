@@ -1,0 +1,9 @@
+Package: crblocks
+Version: 1.2-0
+Date: 2020-09-01
+Title: Categorical Randomized Block Data Analysis
+Author: David Allingham, D.J. Best
+Maintainer: David Allingham <David.Allingham@newcastle.edu.au>
+Description: Implements a statistical test for comparing bar plots or histograms of categorical data derived from a randomized block repeated measures layout. Corrected reported degrees of freedom. Added return() statements and updated citation to published paper. Updated licence to GPL-3.
+License: GPL-3
+URL: https://github.com/dalling1
