@@ -1,0 +1,2 @@
+# Git should ignore the outtput of the 'R CMD build' for the package
+crblocks.Rcheck
